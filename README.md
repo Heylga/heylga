@@ -6,4 +6,4 @@ I'm currently learning full stack web development 🌱
 - 👯 I’m looking forward to collaborate
 - 📫 How to reach me: oy.golovina@gmail.com
 
-🇺🇦
+	:ukraine:
